@@ -1,0 +1,14 @@
+[
+ {
+    "remote":	   "github",
+    "repository":  "LineageOS/android_kernel_xiaomi_cancro",
+    "target_path": "kernel/xiaomi/armani",
+    "branch":	   "cm-14.1"
+  },
+  {
+    "remote":	   "github",
+    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":	   "cm-14.1"
+  }
+]
